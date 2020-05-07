@@ -16,7 +16,7 @@ export default function Register() {
 
     const history = useHistory();
 
-    function handleRegister(e) {
+    async function handleRegister(e) {
         e.preventDefault();
 
         const data = {
@@ -28,12 +28,12 @@ export default function Register() {
         };
 
         try {
-            const reponse = await api.post('ongs', data);
+            const response = await api.post('ongs', data);
 
             alert(`Seu ID de acesso: ${response.data.id}`);
             history.push('/');
         } catch (error) {
-            alert('Erro no cadastro, tente novamente.');
+            alert(`Erro no cadastro tente novamente`);
         }
     }
 
