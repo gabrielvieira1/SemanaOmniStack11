@@ -44,9 +44,23 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Be The Hero é um projeto que visa conectar as pessoas que tem intenção de colaborar para as ONG's.
 
+
 <h1 align="center">
     <img alt="beTheHero-omnistack" title="beTheHero" src=".github/beTheHero.png" width="450px" />
 </h1>
+
+<h1 align="center">
+    <img alt="beTheHero-ongs" title="beTheHeroong" src=".github/ongSite.png" width="450px" />
+</h1>
+
+<p align="center">
+	
+<h1 align="center">
+    <img alt="appMobile-omnistack" title="appMobile" src=".github/appIncio.png" width="150px" />
+    <img alt="appMobile-Casos" title="appMobileCasos" src=".github/appCasos.png" width="150px" />
+    <img alt="appMobile-Detalhes" title="appMobileDetalhes" src=".github/appDetalhes.png" width="150px" />
+</h1>
+</p>
 
 ## :memo: Licença
 
