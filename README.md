@@ -13,12 +13,13 @@
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabrielvieira1/SemanaOmnistack11">
 	
-  <a href="www.linkedin.com/in/bielvieira" target="_blank">
+  <a href="https://www.linkedin.com/in/bielvieira/" target="_blank">
     <img alt="Made by Gabriel Vieira" src="https://img.shields.io/badge/made%20by-Gabriel%20Vieira-blue">
   </a>
   
+  <a href="https://twitter.com/bielvieir4" target="_blank">
    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bielvieir4?label=Seguir&style=social">
-
+  </a>
 </p>
 
 <p align="center">
