@@ -68,4 +68,4 @@ Este projeto está sob a licença MIT. Para mais detalhes: [LICENSE](LICENSE.md)
 
 ---
 
-:wave: [Get in touch!](www.linkedin.com/in/bielvieira)
+:wave: [Get in touch!](https://www.linkedin.com/in/bielvieira/)
